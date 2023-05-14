@@ -3,12 +3,12 @@ body {
     width: 1280px;
     margin: 0 auto;
     color: #333333;
-    background-image: url(/src/images/digital-art-pixel-art-pixels-pixelated-wallpaper.jpg);
+    background-image: url(/devEmDobro_projeto_listagem_pokemon/src/images/digital-art-pixel-art-pixels-pixelated-wallpaper.jpg);
     background-repeat: round;
 }
 
 body.modo-escuro {
-    background-image: url(/src/images/pixel_art_fundo.jpg);
+    background-image: url(/devEmDobro_projeto_listagem_pokemon/src/images/pixel_art_fundo.jpg);
     background-repeat: round;
     color: #f5f5f5;
 }
